@@ -1,5 +1,6 @@
 //your JS code here. If required.
-let url=window.location.href;
+ const url=window.location.href;
 
-	alert(`The length of the URL is ${url.length}`);
+const ans=url.length;
+	 alert(`The length of the URL is ${ans}`);
 
